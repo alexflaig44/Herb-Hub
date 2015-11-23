@@ -10,6 +10,9 @@ import android.widget.TextView;
 /**
  * Created by alexflaig on 11/17/15.
  */
+
+// A random line.
+
 public class SecondScreen extends Activity
 {
     @Override
