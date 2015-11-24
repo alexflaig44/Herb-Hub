@@ -11,7 +11,7 @@ import android.widget.TextView;
  * Created by alexflaig on 11/17/15.
  */
 
-// A random line. 2nd Change.
+// A random line. 2nd Change. Test test
 
 public class SecondScreen extends Activity
 {
